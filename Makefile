@@ -1,7 +1,7 @@
 -include config.mk
 
 INPUT       = game.dat
-OUTPUT      = emperor.exe
+OUTPUT      = game.exe
 LDS         = game.lds
 IMPORTS     = 0x1ECEB0 320
 LD_CFLAGS   = -Wl,--section-alignment=0x1000 -Wl,--subsystem=windows -Wl,--enable-stdcall-fixup
