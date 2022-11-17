@@ -1,0 +1,7 @@
+#include <windows.h>
+
+#include "menu.rch"
+#include "icon.rch"
+#include "version.rch"
+
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL

@@ -1,0 +1,27 @@
+1 VERSIONINFO
+FILEVERSION 1,9,0,0
+PRODUCTVERSION 1,9,0,0
+FILEOS 0x40004
+FILETYPE 0x1
+{
+BLOCK "StringFileInfo"
+{
+        BLOCK "080904b0"
+        {
+                VALUE "CompanyName", "Electronic Arts Inc."
+                VALUE "FileDescription", "Emperor"
+                VALUE "FileVersion", "1, 9, 0, 0"
+                VALUE "InternalName", "Emperor"
+                VALUE "LegalCopyright", "Copyright (c) 2001 Electronic Arts Inc.  All rights reserved."
+                VALUE "OriginalFilename", "Emperor.exe"
+                VALUE "ProductName", "Emperor: Battle for Dune"
+                VALUE "ProductVersion", "1, 9, 0, 0"
+                VALUE "SpecialBuild", "2081"
+        }
+}
+
+BLOCK "VarFileInfo"
+{
+        VALUE "Translation", 0x0809, 0x04B0
+}
+}

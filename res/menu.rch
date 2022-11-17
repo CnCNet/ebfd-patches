@@ -1,0 +1,18 @@
+121 MENU
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_UK
+{
+POPUP "Filter"
+{
+        MENUITEM "All",  40033
+        MENUITEM SEPARATOR
+        MENUITEM "Category 0",  40034
+        MENUITEM "Category 1 ",  40035
+        MENUITEM "Category 2",  40036
+        MENUITEM "Category 3",  40037
+        MENUITEM "Category 4",  40038
+        MENUITEM "Category 5",  40039
+        MENUITEM "Category 6",  40040
+        MENUITEM "Category 7",  40041
+        MENUITEM "Category 8",  40042
+}
+}
